@@ -1,5 +1,6 @@
-## Hi there 👋
+## _Hello world_ 👋🌐
 
+I'm **Rohan Tripathy**. I'm figuring out how to make things that just _works_. I kinda like this ✨ _special_ ✨ profile.
 <!--
 **RulerOfHells/RulerOfHells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
