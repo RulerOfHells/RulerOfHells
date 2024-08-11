@@ -1,4 +1,4 @@
-## _Hello world_ 👋🌐
+## _Hello World_ 👋🌐
 
 I'm **Rohan Tripathy**. I'm figuring out how to make things that just _works_. I kinda like this ✨ _special_ ✨ profile.
 <!--
