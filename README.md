@@ -1,6 +1,7 @@
 ## _Hello World_ 👋🌐
 
-I'm **Rohan Tripathy**. I'm figuring out how to make things that just _works_. I kinda like this ✨ _special_ ✨ profile.
+I'm **Rohan Tripathy**. I love figuring out how stuff _works_. I love playing and building _✨games✨_ and cool software.  
+Checkout my [_portfolio!_](https://rohans-portfolio.onrender.com/)
 <!--
 **RulerOfHells/RulerOfHells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
